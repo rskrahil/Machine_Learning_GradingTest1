@@ -1,2 +1,0 @@
-This is the file created to check the cloning concept. 
-This is the second line i have added to it
